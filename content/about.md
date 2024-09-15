@@ -20,7 +20,7 @@ draft: false
 
 ### 欢迎投稿
 
-有更好的点子/资源？请联系管理员claudehuang@yeah.net 或 关注微信公众号[路漫修远兮](https://poison.us.kg/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7.jpg)
+有更好的点子/资源？请联系管理员claudehuang@yeah.net 或 关注微信公众号 [路漫修远兮](https://poison.us.kg/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7.jpg)
 
 ### 写在最后
 
