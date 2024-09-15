@@ -12,7 +12,7 @@ copyright = "路漫修远兮"
 #网站信息，不显示，仅供搜索引擎参考
 [params]
   keywords = "路漫修远兮"
-  description = "路漫修远兮,Webstack Hugo版主题"
+  description = "路漫修远兮"
 
 #是否开启搜索栏，true开启，false关闭
 [params.search]
@@ -20,7 +20,7 @@ copyright = "路漫修远兮"
 
 #设置默认模式，true暗色模式，false亮色模式
 [params.darkmode]
-  enable = true
+  enable = false
 
 #主页菜单栏显示在线编辑按钮（编辑github文件，适用于自动化部署的情况）
 [params.edit]
