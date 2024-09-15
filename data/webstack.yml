@@ -49,70 +49,17 @@
     - title: UUID生成
       url: https://1024tools.com/uuid/
       description: UUID在线生成
-    
 
-- taxonomy: 社区咨询
-  icon: fa-regular fa-newspaper
-  links: 
-    - title: 雷锋网
-      logo: images/logos/leiphone.png
-      url: https://www.leiphone.com/
-      description: 人工智能和智能硬件领域的互联网科技媒体
-    - title: 36kr
-      logo: images/logos/36kr.png
-      url: https://36kr.com/
-      description: 创业资讯、科技新闻
-    - title: 数英网
-      logo: images/logos/digitaling.png
-      url: https://www.digitaling.com/
-      description: 数字媒体及职业招聘网站
-    - title: 猎云网
-      logo: images/logos/lieyunwang.png
-      url: https://www.lieyunwang.com/
-      description: 互联网创业项目推荐和创业创新资讯
-    - title: 人人都是产品经理
-      logo: images/logos/woshipm.png
-      url: http://www.woshipm.com/
-      description: 产品经理、产品爱好者学习交流平台
-    - title: 互联网早读课
-      logo: images/logos/zaodula.png
-      url: https://www.zaodula.com/
-      description: 互联网行业深度阅读与学习平台
-    - title: 产品壹佰 
-      logo: images/logos/chanpin100.png
-      url: http://www.chanpin100.com/
-      description: 为产品经理爱好者提供最优质的产品资讯、原创内容和相关视频课程
-    - title: PMCAFF
-      logo: images/logos/pmcaff.png
-      url: http://www.pmcaff.com/
-      description: 中国第一产品经理人气组织，专注于研究互联网产品
-    - title: 爱运营
-      logo: images/logos/iyunying.png
-      url: http://www.iyunying.org/
-      description: 网站运营人员学习交流，专注于网站产品运营管理、淘宝运营。
-    - title: 鸟哥笔记
-      logo: images/logos/niaogebiji.png
-      url: http://www.niaogebiji.com/
-      description: 移动互联网第一干货平台
-    - title: 古田路9号
-      logo: images/logos/gtn9.png
-      url: http://www.gtn9.com/
-      description: 国内专业品牌创意平台
-    - title: 优阁网
-      logo: images/logos/uigreat.png
-      url: http://www.uigreat.com/
-      description: UI设计师学习交流社区
     
-
-- taxonomy: 灵感采集
+- taxonomy: 电影/电视剧/动漫/纪录片
   icon: fa-regular fa-lightbulb
   list: 
-    - term: 发现产品
+    - term: 网页　综合（聚合搜索）
       links:
-        - title: Producthunt
-          logo: images/logos/producthunt.png
-          url: https://www.producthunt.com/
-          description: 发现新鲜有趣的产品
+        - title: 🥇追影猫
+          logo: 
+          url:https://zhuiyingmao5.com/
+          description: 推荐
         - title: NEXT
           logo: images/logos/NEXT.png
           url: https://next.36kr.com/posts
