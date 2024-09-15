@@ -52,10 +52,10 @@
   list: 
     - term: 发现产品
       links:
-        - title: Producthunt
-          logo: images/logos/producthunt.png
-          url: https://www.producthunt.com/
-          description: 发现新鲜有趣的产品
+        - title: 🥇追影猫
+          logo: 
+          url: https://zhuiyingmao5.com/
+          description: 推荐
         - title: NEXT
           logo: images/logos/NEXT.png
           url: https://next.36kr.com/posts
