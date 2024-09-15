@@ -62,7 +62,7 @@
           description: 免费在线文件和转换工具
         - title: 酷表ChatExcel处理
           logo: 
-          url: https://chatexcel.com
+          url: https://chatexcel.com/
           description: 通过聊天来操控您的Excel表格
       
     - term: AI区
@@ -73,7 +73,7 @@
           description: 反向人脸搜索，结果可能需要科学上网查看
         - title: FaceCheck
           logo: 
-          url: https://facecheck.id/zh
+          url: https://facecheck.id/zh/
           description: 反向图片搜索-人脸识别搜索引擎，结果可能需要科学上网查看
         - title: Gemini
           logo: 
@@ -81,7 +81,7 @@
           description: 谷歌AI模型
         - title: Meta AI
           logo:
-          url: https://www.meta.ai
+          url: https://www.meta.ai/
           description: Facebook母公司出品
       
     - term: 网页灵感
