@@ -12,7 +12,7 @@ copyright = "路漫修远兮"
 #网站信息，不显示，仅供搜索引擎参考
 [params]
   keywords = "路漫修远兮"
-  description = "路漫修远兮,Webstack Hugo版主题,网址导航"
+  description = "路漫修远兮,Webstack Hugo版主题"
 
 #是否开启搜索栏，true开启，false关闭
 [params.search]
