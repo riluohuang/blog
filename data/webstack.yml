@@ -53,7 +53,7 @@
     - term: 发现产品
       links:
         - title: 追影猫
-          logo: 
+          logo: images/logos/producthunt.png
           url: https://zhuiyingmao5.com/
           description: 推荐
         - title: NEXT
