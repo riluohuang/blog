@@ -20,7 +20,7 @@ draft: false
 
 ### 欢迎投稿
 
-有更好的点子？请联系管理员claudehuang@yeah.net
+有更好的点子？请联系管理员[claudehuang@yeah.net](claudehuang@yeah.net)
 
 ### 写在最后
 
