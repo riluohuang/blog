@@ -3,63 +3,59 @@
 - taxonomy: 常用推荐
   icon: fa-star
   links: 
-    - title: YouTube
+    - title: Dribbble
       logo: 
-      url: https://www.youtube.com/channel/UCgV1t5fHFvAVPyprEWvuIzg/
-      description: 一个专注于软件安装，科学上网教学的频道！
-    - title: 资源博客
-      qrcode: images/qrcodes/bk.png
-      logo:  images/logos/kjgxa999f-kjgx1fr3l-001.ico
-      url: https://kjgx668.blogspot.com/
-      description: 资源分享，详细图文教程。
-    - title: 环球巴士
-      qrcode: 
-      logo: images/logos/HQBS.png
-      url: https://universalbus.cn?s=gB8CJKmJdd
-      description: 流媒体影音账号合租平
-    - title: 虚拟信用卡
-      url: https://gpt.fomepay.com/#/pages/login/index?d=UE9260
-      description: 支付宝、微信充值，海外消费。
-    - title: 美国虚拟卡
-      qrcode: images/qrcodes/usdt.png
+      url: https://dribbble.com/
+      description: 全球UI设计师作品分享平台。
+    - title: Behance
+      url: https://behance.net/
+      description: Adobe旗下的设计师交流平台，来自世界各地的设计师在这里分享自己的作品。
+    - title: 二维码演示
+      qrcode: images/qrcodes/cli.png
+      logo: 
+      url: https://cli.im/url
+      description: 二维码演示，手机扫一扫，也可以点击
+    - title: UI中国
+      url: https://www.ui.cn/
+      description: 图形交互与界面设计交流、作品展示、学习平台。
+    - title: 站酷
+      url: https://www.zcool.com.cn/
+      description: 中国人气设计师互动平台
+    - title: Pinterest
       logo:
-      url: https://www.asinx.io/#/pages/member/register/register?code=9h9oxmkt/
-      description: usdt套现，国内拼多多消费，支付宝消费
-    - title: IOS (苹果) ID 礼品卡/兑换码
-      logo:  images/logos/5eac6d69dc12980944f98.jpg
-      url: https://app.xintaifree.com?from=5431/
-      description: shadowrocket 小火箭 | quantumult x 圈x | 礼品卡/兑换码 | ChatGPT plus 应有尽有！⏰客服在线时间08:00-23:00
-    - title: Telegram
+      url: https://www.pinterest.com/
+      description: 全球美图收藏采集站
+    - title: 花瓣
       logo: 
-      url: https://t.me/kjgxZY/
-      description: 科技共享资源频道
-    - title: Telegram群组
-      url: https://t.me/+qf_DtRZ90ys2ZDBl/
-      description: 沟通交流，资源分享
-    - title: 接码平台
+      url: https://huaban.com/
+      description: 收集灵感,保存有用的素材
+    - title: Medium
+      url: https://medium.com/
+      description: 高质量设计文章
+    - title: 优设
       logo:  
-      url: https://sms-activate.org/?ref=4312619/
-      description: 购买各国电话号码，用于在社交网络、聊天工具和其他服务中注册。
-    - title: Base64编码解码
-      url: https://www.matools.com/base64/
-      description: 将utf-8能表示的所有字符进行Base64编码加密解密
-    - title: OneDrive直链
-      url: https://onedrive.gimhoy.com/
-      description: OneDrive直链获取工具
-    - title: UUID生成
-      url: https://1024tools.com/uuid/
-      description: UUID在线生成
-
+      url: https://www.uisdc.com/
+      description: 设计师交流学习平台
+    - title: Producthunt
+      url: https://www.producthunt.com/
+      description: 发现新鲜有趣的产品
+    - title: Youtube
+      url: https://www.youtube.com/
+      description: 全球最大的学习分享平台
+    - title: Google
+      url: https://www.google.com/
+      description: 全球最大的UI学习分享平台
     
-- taxonomy: 电影/电视剧/动漫/纪录片
+
+- taxonomy: 灵感采集
   icon: fa-regular fa-lightbulb
   list: 
-    - term: 网页　综合（聚合搜索）
+    - term: 发现产品
       links:
-        - title: 🥇追影猫
-          logo: 
-          url:https://zhuiyingmao5.com/
-          description: 推荐
+        - title: Producthunt
+          logo: images/logos/producthunt.png
+          url: https://www.producthunt.com/
+          description: 发现新鲜有趣的产品
         - title: NEXT
           logo: images/logos/NEXT.png
           url: https://next.36kr.com/posts
