@@ -47,54 +47,42 @@
       description: 全球最大的UI学习分享平台
     
 
-- taxonomy: 灵感采集
+- taxonomy: 工作效率
   icon: fa-regular fa-lightbulb
   list: 
-    - term: 发现产品
+    - term: 办公区
       links:
-        - title: 追影猫
-          logo: images/logos/producthunt.png
-          url: https://zhuiyingmao5.com/
-          description: 推荐
-        - title: NEXT
-          logo: images/logos/NEXT.png
-          url: https://next.36kr.com/posts
-          description: 不错过任何一个新产品
-        - title: 少数派
-          logo: images/logos/sspai.png
-          url: https://sspai.com/
-          description: 高品质数字消费指南
-        - title: 利器
-          logo: images/logos/liqi.png
-          url: https://liqi.io/
-          description: 创造者和他们的工具
-        - title: Today
-          logo: images/logos/today.png
-          url: http://today.itjuzi.com/
-          description: 为身边的新产品喝彩
-        - title: 小众软件
-          logo: images/logos/appinn.png
-          url: https://faxian.appinn.com/
-          description: 在这里发现更多有趣的应用
+        - title: 百度爱办公
+          logo: 
+          url: https://abg.baidu.com/
+          description: 优质办公文档服务
+        - title: TinyWow
+          logo: 
+          url: https://tinywow.com/tools/file_conversion
+          description: 免费在线文件和转换工具
+        - title: 酷表ChatExcel处理
+          logo: 
+          url: https://chatexcel.com
+          description: 通过聊天来操控您的Excel表格
       
-    - term: 界面灵感
+    - term: AI区
       links:
-        - title: Pttrns
-          logo: images/logos/Pttrns.png
-          url: https://www.pttrns.com/
-          description: Check out the finest collection of design patterns, resources, mobile apps and inspiration
-        - title: Collect UI
-          logo: images/logos/CollectUI.png
-          url: http://collectui.com/
-          description: Daily inspiration collected from daily ui archive and beyond.
-        - title: UI uigreat
-          logo: images/logos/uiuigreat.png
-          url: http://ui.uigreat.com/
-          description: APP界面截图参考
-        - title: Android Niceties
-          logo: images/logos/AndroidNiceties.png
-          url: https://androidniceties.tumblr.com/
-          description: A collection of screenshots encompassing some of the most beautiful looking Android apps.
+        - title: Yandex
+          logo: 
+          url: https://yandex.com/images/
+          description: 反向人脸搜索，结果可能需要科学上网查看
+        - title: FaceCheck
+          logo: 
+          url: https://facecheck.id/zh
+          description: 反向图片搜索-人脸识别搜索引擎，结果可能需要科学上网查看
+        - title: Gemini
+          logo: 
+          url: https://gemini.google.com/
+          description: 谷歌AI模型
+        - title: Meta AI
+          logo:
+          url: https://www.meta.ai
+          description: Facebook母公司出品
       
     - term: 网页灵感
       links:
