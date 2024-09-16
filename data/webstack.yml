@@ -105,17 +105,17 @@
           
     - term: 系统优化
       links:
-        - title: 超详细WIN10系统安装教程－ 硬件茶谈
+        - title: wisecare365
           logo: 
-          url: https://www.bilibili.com/video/BV1DJ411D79y
-          description: 
-        - title: 360一键重装大师
+          url: https://www.ghxi.com/wisecare365.html
+          description: 世界上最快的系统优化工具！
+        - title: Windows Update Blocker
           logo: 
-          url: http://www.iconfont.cn/
-          description: 
-        - title: 微PE
+          url: https://www.ghxi.com/wub.html
+          description: 软件自带多语言，支持命令行调用，一键关闭更新，非常方便
+        - title: Defender Control
           logo: 
-          url: http://www.wepe.com.cn/
-          description:
+          url: https://www.ghxi.com/defendercontrol.html
+          description: 解除后台高资源占用，如果你不介意安全问题的话
 
 ---
