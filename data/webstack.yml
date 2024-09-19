@@ -34,6 +34,10 @@
       
     - term: AI区
       links:
+        - title: GPT 4o/mini免费用
+          logo: 
+          url: https://gpt4o.so/app
+          description: 国内可访问
         - title: Yandex
           logo: 
           url: https://yandex.com/images/
