@@ -53,11 +53,11 @@
         - title: Gemini
           logo: 
           url: https://gemini.google.com/
-          description: 谷歌AI模型
+          description: 谷歌AI模型，需要魔法
         - title: Meta AI
           logo:
           url: https://www.meta.ai/
-          description: Facebook母公司出品
+          description: Facebook母公司出品,需要魔法
 
       
 - taxonomy: 电脑工具
