@@ -37,11 +37,11 @@
         - title: GPT 4o/mini免费用
           logo: 
           url: https://gpt4o.so/app
-          description: 国内可访问
-        - title: Chandler AI
+          description: 4o/mini每天限制5/20次，国内更快
+        - title: notdiamond
           logo: 
-          url: https://mychandler.bet/chat
-          description: GPT4o mini无限用
+          url: https://chat.notdiamond.ai/
+          description: GPT-4o/mini无限用,国内访问只能用mini,第一次注册需要纯净国外IP，后续不需要魔法，除非你退出登录
         - title: Yandex
           logo: 
           url: https://yandex.com/images/
