@@ -119,4 +119,21 @@
           url: https://url67.ctfile.com/f/14869667-1341827225-0c84ec?p=kyon
           description: 
 
+
+- taxonomy: 思绪飞扬
+  icon: fa-star
+  links: 
+    - title: 互联网档案馆
+      url: https://web.archive.org
+      description: 让你知道任何一个网站刚启动时的样子！
+    - title: 实时卫星地图，星云图，天气跟踪
+      url: https://zoom.earth/
+      description: 实时图像每 10 分钟更新一次，提供风暴、天气预报、降水、火警等数据
+    - title: 白噪音
+      url: https://asoftmurmur.com
+      description: 自由控制雨声、雷声、风声等
+    - title: 实况摄像头
+      url: https://www.skylinewebcams.com
+      description: 观看来自世界各地的实况摄像头！
+
 ---
