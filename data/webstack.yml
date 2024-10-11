@@ -136,4 +136,47 @@
       url: https://www.skylinewebcams.com
       description: 观看来自世界各地的实况摄像头！
 
+
+- taxonomy: 影视区
+  icon: fa-thumbs-up
+  list: 
+    - term: 搜索网站（找不到干脆换磁力吧）
+      links:
+        - title: 网盘小站
+          logo: 
+          url: https://a.sousou.pro
+          description: 3块的注册费包回本的！
+        - title: 4K HDR世界
+          logo: 
+          url: https://www.4khdr.cn/
+          description: 这个4K真不是1080P，画质控无脑冲
+        - title: 顶级4K
+          logo: 
+          url: https://www.wo4k.com/
+          description: 画质顶不顶不知道，但至少名字够顶
+        - title: 飘花电影网
+          logo: 
+          url: https://www.piaohua.com/
+          description: 
+        - title: MINI4K迷客电影
+          logo: 
+          url: https://www.mini4k.org/
+          description: 
+        - title: 布谷TV
+          logo: 
+          url: https://www.bugutv.org/
+          description: 
+        - title: 音范丝精选
+          logo: 
+          url: https://www.yinfans.me/
+          description: 
+
+    - term: 字幕网站
+      links:
+        - title: SubHD
+          logo: 
+          url: https://subhd.tv/
+          description: 你还有选择吗？
+
+   
 ---
